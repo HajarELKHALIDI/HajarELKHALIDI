@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HajarELKHALIDI
 - 👀 I’m interested in learning new stuffs, learn to learn!
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on WX company
+- 💞️ I’m looking to collaborate on 8391 company
 - 📫 How to reach me : hajarelkhalidi98@gmail.com
 
 <!---
