@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HajarELKHALIDI
 - 👀 I’m interested in learning new stuffs, learn to learn!
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on 8391 company
 - 📫 You can reach me here: https://www.linkedin.com/in/hajar-elkhalidi/
 
 <!---
